@@ -38,4 +38,4 @@ Data_Visualization_Dashboard/
 - Provide retention & upselling strategies
 
 ## Dashboard Preview
-![Dashboard](images/Customer Behavior Analysis Telco.png)
+![Dashboard](images/customer_behavior_analysis_telco.png)
