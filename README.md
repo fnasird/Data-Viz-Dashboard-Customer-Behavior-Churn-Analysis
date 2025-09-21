@@ -36,3 +36,6 @@ Data_Visualization_Dashboard/
 - Identify high-risk churn segments  
 - Analyze sales trends by contract type & region  
 - Provide retention & upselling strategies
+
+## Dashboard Preview
+![Dashboard](images/Customer Behavior Analysis Telco.png)
